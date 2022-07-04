@@ -7,7 +7,7 @@ RFM analysis will be used for segmentation.
 
 The dataset named Online Retail II includes online sales transactions of a UK-based retail company between 01/12/2010 and 09/12/2011. The company's product catalog includes souvenirs and it is known that most of its customers are wholesalers.
 
-InvoiceNo: Invoice Number (If this code starts with C, it means that the transaction has been cancelled)
+InvoiceNo: Invoice Number (If this code starts with C, it means that the transaction has been cancelled) <bv>
 StockCode: Product code (unique for each product)
 Description: Product name
 Quantity: Number of products (How many of the products on the invoices were sold)
