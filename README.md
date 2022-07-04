@@ -1,9 +1,12 @@
 # Customer Segmentation with RFM Analysis
 
-Business Problem:
+### Business Problem:
+
 The UK-based retail company wants to segment its customers and determine marketing strategies according to these segments.
 
 RFM analysis will be used for segmentation.
+
+Data can be download from: https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
 
 The dataset named Online Retail II includes online sales transactions of a UK-based retail company between 01/12/2010 and 09/12/2011. The company's product catalog includes souvenirs and it is known that most of its customers are wholesalers.
 
