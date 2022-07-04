@@ -1,5 +1,6 @@
 # Customer_Segmentation_with_RFM_Analysis
-Customer Segmentation with RFM Analysis
+# Customer Segmentation with RFM Analysis
+
 Business Problem:
 The UK-based retail company wants to segment its customers and determine marketing strategies according to these segments.
 
