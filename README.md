@@ -1,2 +1,2 @@
 # Customer_Segmentation_with_RFM_Analysis
-Customer segmentation with RFM Analysis
+Customer Segmentation with RFM Analysis
